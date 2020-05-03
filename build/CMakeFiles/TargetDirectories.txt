@@ -1,0 +1,3 @@
+/home/abel/pang_tut/build/CMakeFiles/edit_cache.dir
+/home/abel/pang_tut/build/CMakeFiles/rebuild_cache.dir
+/home/abel/pang_tut/build/CMakeFiles/multi_disp.dir
